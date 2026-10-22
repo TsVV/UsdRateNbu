@@ -1,0 +1,1 @@
+..\venv\Scripts\python -m unittest discover -s ..\tests -t ..

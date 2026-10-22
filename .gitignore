@@ -1,2 +1,6 @@
 # Ignore virtual environment directories
 venv/
+
+# Python caches
+__pycache__/
+*.pyc
